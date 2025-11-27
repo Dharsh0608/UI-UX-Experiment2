@@ -27,6 +27,8 @@ Step 5: Design a Brand Logo Using Canva
 Step 6: Review and Document the Final Output
 ## Output:
 <img width="500" height="500" alt="Black White Minimalist Modern Aesthetic Initials Font Logo (1)" src="https://github.com/user-attachments/assets/a18d3ddb-8dc3-4775-b201-8bab5acdd824" />
+
+
 ## Result:
 Successfully designed responsive mobile and web layouts for an existing case study using key design principles. Applied Gestalt theory to improve visual structure, integrated standard UI components and patterns, and developed user interactions focused on usability. Created a custom brand logo using Canva, maintaining visual consistency across layouts. This process enhanced my skills in layout planning, responsive design, branding, and user-centered thinking.
 
